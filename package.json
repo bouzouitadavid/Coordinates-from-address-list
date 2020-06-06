@@ -1,0 +1,19 @@
+{
+  "name": "geocoding-convert-address",
+  "version": "1.0.0",
+  "description": "Convert address to long lat",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "author": "Bouzouita David",
+  "license": "ISC",
+  "dependencies": {
+    "nominatim-geocoder": "^0.1.4"
+  }
+}
